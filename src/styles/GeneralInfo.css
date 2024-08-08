@@ -1,0 +1,12 @@
+.general-info {
+  margin: 10px;
+}
+
+.general-info form {
+  display: flex;
+  flex-direction: column;
+}
+
+.general-info input {
+  margin-bottom: 10px;
+}

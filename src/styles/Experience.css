@@ -1,0 +1,12 @@
+.experience {
+  margin: 10px;
+}
+
+.experience form {
+  display: flex;
+  flex-direction: column;
+}
+
+.experience input, .experience textarea {
+  margin-bottom: 10px;
+}

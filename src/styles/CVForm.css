@@ -1,0 +1,27 @@
+.cv-form {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.cv-form h1 {
+  margin-bottom: 20px;
+}
+
+.cv-form button {
+  margin-top: 20px;
+}
+
+.submitted-data {
+  margin-top: 30px;
+}
+
+.submitted-data h2 {
+  margin-bottom: 20px;
+}
+
+.submitted-data h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
